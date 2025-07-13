@@ -1,0 +1,7 @@
+Algorithm,Dataset,Time (ms),Memory (KB)
+Merge Sort,Sorted,10.648,16.695
+Quick Sort,Sorted,2611.053,46.516
+Merge Sort,Reverse Sorted,14.707,15.656
+Quick Sort,Reverse Sorted,2954.273,46.484
+Merge Sort,Random,9.058,15.656
+Quick Sort,Random,16.522,1.203
